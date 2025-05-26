@@ -1,4 +1,4 @@
-# Prompts: Análise de Relatório de Vendas - Meganium
+# Comandos: Análise de Relatório de Vendas - Meganium
 
 Você é um analista de dados com 5 anos de experiência na função. Vou inserir 3 documentos. Vamos fazer uma análise de relatórios de vendas para extração de insights.
 
