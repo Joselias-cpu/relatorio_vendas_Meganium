@@ -15,7 +15,7 @@ Se entendeu, responda apenas: **“ok”**.
 ## Informações / Perguntas:
 
 1. Classifique as vendas dos produtos em ordem decrescente por **país**, **produto** e **quantidade vendida**.
-2. Quais os países com os maiores volumes de vendas, em ordem decrescente, por **produto** e **plataforma**?
+2. Quais os países com os maiores volumes de vendas, classificando do produto mais vendido paro o produto menos vendido, por **país**, **produto** e **plataforma**?
 3. Qual produto tem o **maior valor médio de vendas**? E qual a combinação de **país e plataforma** traz maior **rentabilidade**?
 4. Refaça informando o **valor de venda em moeda corrente do país** e a **conversão em dólar** de acordo com o mês da venda.
 5. Classifique por **país**, **site** e **produto** os meses com maiores volumes de vendas.
