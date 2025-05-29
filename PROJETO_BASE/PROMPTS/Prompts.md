@@ -43,6 +43,9 @@ Se entendeu, responda apenas: **“ok”**.
 13. Considerando **todas as plataformas**, como poderíamos **otimizar o processo de transporte e logística** até o momento da compra?
 
 14. Conclua fazendo um **resumo dos insights estratégicos** retirados da **análise geral destes relatórios**.
+
+15. Converta a resposta em formato markdown.
+    
 ```
 
 
