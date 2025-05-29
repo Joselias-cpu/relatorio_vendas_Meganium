@@ -22,10 +22,7 @@ Se entendeu, responda apenas: **“ok”**.
 
 4. Informe os dados agrupados por **receita total**, com **todos os registros**.
 
-5. Quais os países com os maiores volumes de vendas, classificando do produto mais vendido para o produto menos vendido, por:
-   - **País**
-   - **Produto**
-   - **Plataforma**
+5. Quais os países com os maiores volumes de vendas, classificando do produto mais vendido para o produto menos vendido, por **País**, **Produto** e **Plataforma**
 
 6. Qual produto tem o **maior valor médio de vendas**?  
    E qual a combinação de **país e plataforma** traz maior rentabilidade?
